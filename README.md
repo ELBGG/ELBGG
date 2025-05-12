@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**ELBGG/ELBGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">
+  <img src="https://cdn.discordapp.com/emojis/1354891908241035385.webp?size=48&name=fujiteam" width="30">
+ELBGG (Elber)
+  <img src="https://cdn.discordapp.com/emojis/1354891908241035385.webp?size=48&name=fujiteam" width="30">
+</h1>
+</br>
+<p align="center">
+  <em>
+    Minecraft Server Configurator<br>
+    Render in Blender<br>
+    Worked in various Minecraft server production studios<br>
+    Learning After Effects<br>
+    Current Focus: Java<br>
+    Minecraft Mods & Plugins Dev<br>
+  </em>
+</p>
+</br>
