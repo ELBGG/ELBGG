@@ -11,7 +11,7 @@ ELBGG (Elber)
     Worked in various Minecraft server production studios<br>
     Learning After Effects<br>
     Current Focus: Java<br>
-    Minecraft Mods & Plugins Dev<br>
+    Minecraft Mods<br>
   </em>
 </p>
 </br>
