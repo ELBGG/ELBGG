@@ -24,12 +24,19 @@
 
 <br/>
 
-## 💭 Información extra 💭
+## 💭 Información extra
 <p align="center">
     <img src="https://cdn.discordapp.com/emojis/1410716605985460264.webp?size=96"/>
   <br/>
   Mambo
 </p>
+
+## ✍️ Trabajos destacados
+ * Fuji Bars (recreacion de la final de SCG2)
+ * La Torre (Recreacion del juego de "La torre" de SCG3)
+ * Whack-a-bull (Recreacion del gulag de DEDsafio3)
+ * Echoes Carnis (Evento basado de Vita Carnis)
+   
 
 <hr/>
 
