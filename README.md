@@ -10,7 +10,7 @@
   
 <hr/>
 
-## 🌱 Lenguajes con los que he trabajado
+## 🐟 Lenguajes que suelo usar
 
 <p align="center">
 <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
